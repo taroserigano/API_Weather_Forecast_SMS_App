@@ -1,4 +1,4 @@
-# API_Weather_Forecast_SMS_App
+# ☁☁ API_Weather_Forecast_SMS_App 🌧☔🌦
 This python-based app will automatically send you a SMS when it rains in the next 12 hours.
 
 This app is using Twilio API which has been configured to send SMS text to the assigned users.
